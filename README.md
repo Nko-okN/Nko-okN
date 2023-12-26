@@ -34,7 +34,9 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nko-okN&show_icons=true&count_private=true&hide=contribs,prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nko-okN&show_icons=true&count_private=true&hide=contribs,prs&rank_icon=github&theme=tokyonight)
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nko-okN&show_icons=true&layout=compact&theme=tokyonight)
 
 ## 🤝 Let's Connect
 
